@@ -11,5 +11,8 @@ public class Name {
         enterName = scanner.next();
 
         System.out.println("Hello, " + enterName);
+
+	//TODO: check if name contains only letters.
+	//TODO: if name contains other symdols print warning and ask for proper name
     }
 }
